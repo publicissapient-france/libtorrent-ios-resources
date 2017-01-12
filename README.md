@@ -14,7 +14,7 @@ Some resources for compiling libtorrent on iOS
 ```bash
 make boost
 make openssl
-make (all) # Add libtorrent to src/libtorrent in order to compile
+make (all) # Add libtorrent to src/libtorrent before launching
 ```
 
 # License
