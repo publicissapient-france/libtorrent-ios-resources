@@ -14,3 +14,9 @@ Some resources for compiling libtorrent on iOS
 
 # License
 MIT
+
+# Authors
+- JC Pastant
+- Julien Datour
+- Michaël Caylus
+- Simone Civetta
