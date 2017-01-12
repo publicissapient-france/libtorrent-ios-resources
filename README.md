@@ -11,6 +11,11 @@ Some resources for compiling libtorrent on iOS
 
 ## ...with a Bash Script
 - See [the build-script directory](build-script)
+```bash
+make boost
+make openssl
+make (all) # Add libtorrent to src/libtorrent in order to compile
+```
 
 # License
 MIT
