@@ -9,5 +9,8 @@ Some resources for compiling libtorrent on iOS
 ## ...with Qt Creator
 - See [libtorrent.pro](libtorrent.pro)
 
+## ...with a Bash Script
+- See [the build-script directory](build-script)
+
 # License
 MIT
